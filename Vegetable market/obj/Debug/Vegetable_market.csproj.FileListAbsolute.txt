@@ -1,0 +1,7 @@
+C:\Users\Tihomir Petkov\Source\Repos\Vegetable-market\Vegetable market\bin\Debug\Vegetable market.exe.config
+C:\Users\Tihomir Petkov\Source\Repos\Vegetable-market\Vegetable market\bin\Debug\Vegetable market.exe
+C:\Users\Tihomir Petkov\Source\Repos\Vegetable-market\Vegetable market\bin\Debug\Vegetable market.pdb
+C:\Users\Tihomir Petkov\Source\Repos\Vegetable-market\Vegetable market\obj\Debug\Vegetable_market.csproj.AssemblyReference.cache
+C:\Users\Tihomir Petkov\Source\Repos\Vegetable-market\Vegetable market\obj\Debug\Vegetable_market.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir Petkov\Source\Repos\Vegetable-market\Vegetable market\obj\Debug\Vegetable market.exe
+C:\Users\Tihomir Petkov\Source\Repos\Vegetable-market\Vegetable market\obj\Debug\Vegetable market.pdb
